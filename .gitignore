@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Production
+build/
+
+# React
+/coverage/
+/.babelrc
+/.env
+/.env.local
+/.env.development
+/.env.test
+/.env.production
+/public/static/
+/src/serviceWorker.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
